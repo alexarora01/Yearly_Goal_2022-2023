@@ -1,6 +1,34 @@
 /*All style edits for the home page*/
 
+#Background_Color {
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#Top_Color_Wall {
+    top: 50px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
+
+#Website_Image {
+    top: 50px;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
 h1 {
-    color: blue;
-    text-align: center;
+    color: burlywood;
+    text-align: right;
+    width: 100%;
+    font-size: 20px;
+    position: absolute;
+    right: 10px;
 }
