@@ -32,3 +32,21 @@ h1 {
     position: absolute;
     right: 10px;
 }
+
+#containers {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+#containers>div {
+    color: black;
+    text-align: center;
+    background-image: url("https://www.macmillandictionary.com/external/slideshow/full/Burgundy_full.png");
+    border: 2px;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    width: 8200x;
+    height: 25px;
+    position: relative;
+}
